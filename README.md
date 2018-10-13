@@ -1,5 +1,5 @@
 # gmatrix
-Remember cmatrix? This is even faster, and written in Gp
+Remember cmatrix? This is even faster, and written in Go
 
 ## Installation
 
